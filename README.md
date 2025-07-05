@@ -47,5 +47,5 @@ A simple calculator that performs:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-practice-projects.git
+   git clone https://github.com/NyasaShaiju/python-practice-projects.git
    cd python-practice-projects
